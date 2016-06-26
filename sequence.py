@@ -11,7 +11,7 @@
 #
 # This program is free software; you can redistribute it and/or
 # modify it under MIT Lincence.
-# modified by karaage0703 2016/06/26 for addapting usecase and python3
+# modified by karaage0703 2016/06/26 for adapting usecase and python3
 
 class SequenceBuffer:
     def __init__(self,size):
