@@ -3,7 +3,7 @@ import sys
 import serial
 import time
 import json
-from ring import SequenceBuffer
+from sequence import SequenceBuffer
 import threading
 from psonic import *
  
