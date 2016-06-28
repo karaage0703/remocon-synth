@@ -48,3 +48,7 @@ $ python3 ~/remocon-synth/remocon-synth.py
 - http://www.omiya-giken.com/?page_id=1231
 - https://github.com/netbuffalo/irmcli
 - http://d.hatena.ne.jp/mzp/20090706/ringbuffer
+
+
+# License
+This software is released under the MIT License, see LICENSE.
